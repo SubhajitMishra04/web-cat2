@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="web.xsl" type="text/xsl"?>
+<christ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <computer-science>
+
+        <stu-name>Peter Parker</stu-name>
+        <stu_university>Christ Univ</stu_university>
+        <stu_phone>1234567897</stu_phone>
+        <stu-email>peter@christuniversity.in</stu-email>
+
+    </computer-science>
+
+    <computer-science>
+
+        <stu-name>Tony Stark</stu-name>
+        <stu_university>Christ Univ</stu_university>
+        <stu_phone>2354685372</stu_phone>
+        <stu-email>@christuniversity.in</stu-email>
+        
+    </computer-science>
+
+    <computer-science>
+
+        <stu-name>Bruce Banner</stu-name>
+        <stu_university>Christ Univ</stu_university>
+        <stu_phone>3674856378</stu_phone>
+        <stu-email>@christuniversity.in</stu-email>
+        
+    </computer-science>
+
+</christ>
